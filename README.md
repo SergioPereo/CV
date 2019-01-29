@@ -24,7 +24,7 @@ Project is created with:
 
 ## Setup
 Clone this repository (you can use the next example line if you have git installed in your pc)
-`git clone https://github.com/SergioPereo/CV.git`
+* `git clone https://github.com/SergioPereo/CV.git`
 
 To work with the script use the following flags and example lines (Preferably in an Anaconda Prompt)
 
