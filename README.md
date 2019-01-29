@@ -6,8 +6,12 @@
 * [Technologies] (#technologies)
 * [Setup] (#setup)
 
+---
+
 ## General Information
 Python code to personalize your mask of color you want to apply, and recognize the centroids of the largest contours.
+
+---
 
 ## Technologies
 Project is created with:
@@ -15,6 +19,8 @@ Project is created with:
 * OpenCV: 3.4.5
 * Numpy: 1.15.4
 * Argparse: 1.1
+
+---
 
 ## Setup
 Clone this repository (you can use the next example line if you have git installed in your pc)
@@ -56,15 +62,15 @@ The script have the following flags
 * `-cg` | `--cameragetsettings` (non-required):
   Get your actual camera settings.
   Example: `--cameragetsettings`
-  CV_CAP_PROP_FORMAT
-  CV_CAP_PROP_FORMAT
-  CV_CAP_PROP_MODE
-  CV_CAP_PROP_BRIGHTNESS
-  CV_CAP_PROP_CONTRAST
-  CV_CAP_PROP_SATURATION
-  CV_CAP_PROP_HUE
-  CV_CAP_PROP_GAIN
-  CV_CAP_PROP_EXPOSURE
+  * CV_CAP_PROP_FORMAT
+  * CV_CAP_PROP_FORMAT
+  * CV_CAP_PROP_MODE
+  * CV_CAP_PROP_BRIGHTNESS
+  * CV_CAP_PROP_CONTRAST
+  * CV_CAP_PROP_SATURATION
+  * CV_CAP_PROP_HUE
+  * CV_CAP_PROP_GAIN
+  * CV_CAP_PROP_EXPOSURE
 
 * `-hsv` | `--hsvvalues` (non-required):
   To set the filter mask values. Example:
