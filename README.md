@@ -29,7 +29,7 @@ Clone this repository (you can use the next example line if you have git install
 To work with the script use the following flags and example lines (Preferably in an Anaconda Prompt)
 
 Command Line Example (In the file download directory):
-python TecbotCV.py --filter HSV --webcam --webcamindex 0 --preview --cvinformation
+`python TecbotCV.py --filter HSV --webcam --webcamindex 0 --preview --cvinformation`
 
 The script have the following flags
 * `-f` | `--filter` (required):
