@@ -6,7 +6,6 @@ import math
 from operator import xor
 
 clear = lambda: os.system('cls')
-print (argparse.__version__)
 
 class Scaler:
     angle = 0.0
