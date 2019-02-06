@@ -1,6 +1,6 @@
 # CV
 
-## Table of contents
+## Table of Contents
 
 * [General Information](#general-information)
 * [Technologies](#technologies)
